@@ -705,9 +705,7 @@ img {
   margin-bottom: var(--mb-0-75);
 }
 
-.portfolio__button {
-    text-align: center;
-}
+
 
 .portfolio__button:hover .button__icon {
   transform: translateX(.25rem);
