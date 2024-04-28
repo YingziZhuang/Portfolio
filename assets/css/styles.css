@@ -454,6 +454,8 @@ img {
 }
 
 .about__buttons {
+    display:grid;
+    align-items: center;
 }
 
 /*==================== SKILLS ====================*/
