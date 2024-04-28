@@ -744,6 +744,11 @@ img {
   outline: none;
 }
 
+.merald__container {
+    display:grid;
+    grid-template-columns: auto auto;
+}
+
 /*==================== CONTACT ME ====================*/
 .contact__container {
   row-gap: 3rem;
