@@ -424,7 +424,7 @@ img {
 }
 
 .about__description {
-  text-align: center;
+  text-align: justify;
   margin-bottom: var(--mb-2-5);
   margin-top: var(--mb-2-5);
 
