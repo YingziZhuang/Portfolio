@@ -1,2 +1,2 @@
-Please have a good at my Portfolio here:
+Please have a lood at my Portfolio here:
 https://yingzizhuang.github.io/Portfolio/
